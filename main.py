@@ -180,6 +180,7 @@ fizzbuzz(65)
 
 # notes TODO:
 # check end support date
+# https://endoflife.date/python
 # more tests
 # check libs
 # upgade 2 version than next 2
