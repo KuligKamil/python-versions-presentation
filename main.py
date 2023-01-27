@@ -189,8 +189,11 @@ fizzbuzz(65)
 
 
 # upgrade pyenv intall python version list
-# go to .pyenv/ 
-# git pull
-# for example install python 3.10.9 and 3.8.16
+## go to .pyenv/ and get new versions from pyenv repository
+
+cd ~/.pyenv
+git pull
+
+## for example install python 3.10.9 and 3.8.16
 pyenv install 3.10.9
 pyenv install 3.8.16
