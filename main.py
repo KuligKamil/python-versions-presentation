@@ -186,3 +186,11 @@ fizzbuzz(65)
 # upgade 2 version than next 2
 # to upgrade python, you will need to upgrade pyenv
 # check deprecated warnings
+
+
+# upgrade pyenv intall python version list
+# go to .pyenv/ 
+# git pull
+# for example install python 3.10.9 and 3.8.16
+pyenv install 3.10.9
+pyenv install 3.8.16
